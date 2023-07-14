@@ -14,4 +14,4 @@ To enhance user experience, the resume incorporates a dynamic dark/light toggle 
 # Scroll to Top Button
 To improve navigation and user-friendliness, the resume includes a "Scroll to Top" button. As users scroll through the content, the button appears, enabling them to easily and quickly return to the top of the resume with a single click. This feature simplifies navigation and enhances user convenience.
 
-Please note that the resume also includes other sections and details, such as personal information, education, experience, skills, and contact information. These components are designed to provide a comprehensive overview of my qualifications and experiences.
+Please note that the resume also includes other sections and details, such as personal information, education, skills, and contact information. These components are designed to provide a comprehensive overview of my qualifications and experiences.
